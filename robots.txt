@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uday-gupta-portfolio.lovable.app/sitemap.xml
