@@ -1,0 +1,28 @@
+{
+  "_note": "Edit this file to update your live 'now' status on the portfolio. Deploy it to the same host as the site at /now.json",
+  "updated": "Jun 2026",
+  "status": "open",
+  "building": {
+    "label": "Currently Building",
+    "value": "Mindsphere AI v2 — RAG-powered study assistant",
+    "progress": 70
+  },
+  "learning": {
+    "label": "Currently Learning",
+    "value": "LangChain, LLM fine-tuning, system design patterns"
+  },
+  "shipped": {
+    "label": "Last Shipped",
+    "value": "Cook Assistant — Gemini 2.5 Flash bilingual recipe app"
+  },
+  "reading": {
+    "label": "Reading",
+    "value": "Designing Data-Intensive Applications — Martin Kleppmann"
+  },
+  "listening": {
+    "label": "Listening To",
+    "value": "Lex Fridman Podcast, Lenny's Podcast"
+  },
+  "location": "Modinagar, UP 🇮🇳",
+  "availability": "Open to full-time SDE roles + freelance projects"
+}
